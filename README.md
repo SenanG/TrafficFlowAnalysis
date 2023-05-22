@@ -10,3 +10,5 @@ counter.py - Checks line crossing counts tracked objects
 detector.py - Runs object recognition on image
 tracker.py - Tracks objects
 view_camera.py - main file
+
+This project was inspired by Eric Yim on youtube
